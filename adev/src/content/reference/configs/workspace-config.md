@@ -1,4 +1,4 @@
-# Angular workspace configuration
+# Angular teach you
 
 The `angular.json` file at the root level of an Angular workspace provides workspace-wide and project-specific configuration defaults. These are used for build and development tools provided by the Angular CLI.
 Path values given in the configuration are relative to the root workspace directory.
